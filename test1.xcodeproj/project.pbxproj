@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2BA96C29FDE6B81415A29F4A /* Pods_test1UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F3D33A83A7E85C26367CFA5 /* Pods_test1UITests.framework */; };
+		960A5981210F8DC30047982A /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960A5980210F8DC30047982A /* SignUpViewController.swift */; };
+		960A5983210F8DDF0047982A /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960A5982210F8DDF0047982A /* HomeViewController.swift */; };
+		960A598721124C6E0047982A /* fast-food-apps-670x335.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 960A598621124C6D0047982A /* fast-food-apps-670x335.jpg */; };
+		960A598B21126D470047982A /* Emblem-Chipotle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 960A598A21126D470047982A /* Emblem-Chipotle.jpg */; };
+		960A598D21126D710047982A /* InNOut.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 960A598C21126D710047982A /* InNOut.svg.png */; };
+		960A5999211379700047982A /* 87388367_X8MkGhK2DUl307ACKVnqVmh-ViuTYHDEuhonETloDRI.png in Resources */ = {isa = PBXBuildFile; fileRef = 960A5998211379700047982A /* 87388367_X8MkGhK2DUl307ACKVnqVmh-ViuTYHDEuhonETloDRI.png */; };
+		960A59AD211388550047982A /* 2000px-Subway_restaurant.svg.png in Resources */ = {isa = PBXBuildFile; fileRef = 960A59AC211388550047982A /* 2000px-Subway_restaurant.svg.png */; };
+		960A59B72113B2DF0047982A /* 31403942-tacobell-jpg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 960A59B62113B2DF0047982A /* 31403942-tacobell-jpg.jpg */; };
+		960A59B92113B4110047982A /* 6ba7b862ce36d8d131e56e0645fa77cb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 960A59B82113B4100047982A /* 6ba7b862ce36d8d131e56e0645fa77cb.jpg */; };
+		960A59BB2114B6060047982A /* chipotle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960A59BA2114B6060047982A /* chipotle.swift */; };
+		960A59C52114CF040047982A /* SubwayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960A59C42114CF040047982A /* SubwayViewController.swift */; };
+		960A59C72114CF160047982A /* PieologyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960A59C62114CF160047982A /* PieologyViewController.swift */; };
+		960A59C92114CF200047982A /* TacoBellViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960A59C82114CF200047982A /* TacoBellViewController.swift */; };
+		960A59CB2114CF330047982A /* InNOutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 960A59CA2114CF330047982A /* InNOutViewController.swift */; };
 		96D290D820FFB18200C44AB3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D290D720FFB18200C44AB3 /* AppDelegate.swift */; };
 		96D290DA20FFB18200C44AB3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D290D920FFB18200C44AB3 /* ViewController.swift */; };
 		96D290DD20FFB18300C44AB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96D290DB20FFB18300C44AB3 /* Main.storyboard */; };
@@ -14,6 +29,11 @@
 		96D290E220FFB18600C44AB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96D290E020FFB18600C44AB3 /* LaunchScreen.storyboard */; };
 		96D290ED20FFB18600C44AB3 /* test1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D290EC20FFB18600C44AB3 /* test1Tests.swift */; };
 		96D290F820FFB18600C44AB3 /* test1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96D290F720FFB18600C44AB3 /* test1UITests.swift */; };
+		96D2915F2108E5F700C44AB3 /* 50585f96608bcc4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96D2915E2108E5F700C44AB3 /* 50585f96608bcc4.jpg */; };
+		96D291652108F14B00C44AB3 /* FVWdiR.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 96D291642108F14B00C44AB3 /* FVWdiR.jpg */; };
+		96D2916B210937AE00C44AB3 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 96D2916A210937AE00C44AB3 /* GoogleService-Info.plist */; };
+		F932A841C0A45B6DFB936E6E /* Pods_test1Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71A89F417F5FCA9D31725601 /* Pods_test1Tests.framework */; };
+		FFB0C9BD579DCCADAD301463 /* Pods_test1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 396C91CF99C24935DC115724 /* Pods_test1.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +54,27 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F3D33A83A7E85C26367CFA5 /* Pods_test1UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_test1UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		14F43B3FF9E4FC322A36F946 /* Pods-test1UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test1UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-test1UITests/Pods-test1UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		396C91CF99C24935DC115724 /* Pods_test1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_test1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B9F63EB7466B210D79F587B /* Pods-test1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test1Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-test1Tests/Pods-test1Tests.release.xcconfig"; sourceTree = "<group>"; };
+		6EC34143F02085677E978AF9 /* Pods-test1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test1.release.xcconfig"; path = "Pods/Target Support Files/Pods-test1/Pods-test1.release.xcconfig"; sourceTree = "<group>"; };
+		71A89F417F5FCA9D31725601 /* Pods_test1Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_test1Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A9FE37ECF44A4847365C777 /* Pods-test1Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test1Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-test1Tests/Pods-test1Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		960A5980210F8DC30047982A /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		960A5982210F8DDF0047982A /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		960A598621124C6D0047982A /* fast-food-apps-670x335.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fast-food-apps-670x335.jpg"; sourceTree = "<group>"; };
+		960A598A21126D470047982A /* Emblem-Chipotle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Emblem-Chipotle.jpg"; sourceTree = "<group>"; };
+		960A598C21126D710047982A /* InNOut.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InNOut.svg.png; sourceTree = "<group>"; };
+		960A5998211379700047982A /* 87388367_X8MkGhK2DUl307ACKVnqVmh-ViuTYHDEuhonETloDRI.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "87388367_X8MkGhK2DUl307ACKVnqVmh-ViuTYHDEuhonETloDRI.png"; sourceTree = "<group>"; };
+		960A59AC211388550047982A /* 2000px-Subway_restaurant.svg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2000px-Subway_restaurant.svg.png"; sourceTree = "<group>"; };
+		960A59B62113B2DF0047982A /* 31403942-tacobell-jpg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "31403942-tacobell-jpg.jpg"; sourceTree = "<group>"; };
+		960A59B82113B4100047982A /* 6ba7b862ce36d8d131e56e0645fa77cb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6ba7b862ce36d8d131e56e0645fa77cb.jpg; sourceTree = "<group>"; };
+		960A59BA2114B6060047982A /* chipotle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chipotle.swift; sourceTree = "<group>"; };
+		960A59C42114CF040047982A /* SubwayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubwayViewController.swift; sourceTree = "<group>"; };
+		960A59C62114CF160047982A /* PieologyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieologyViewController.swift; sourceTree = "<group>"; };
+		960A59C82114CF200047982A /* TacoBellViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TacoBellViewController.swift; sourceTree = "<group>"; };
+		960A59CA2114CF330047982A /* InNOutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InNOutViewController.swift; sourceTree = "<group>"; };
 		96D290D420FFB18200C44AB3 /* test1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D290D720FFB18200C44AB3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		96D290D920FFB18200C44AB3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +88,11 @@
 		96D290F320FFB18600C44AB3 /* test1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D290F720FFB18600C44AB3 /* test1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test1UITests.swift; sourceTree = "<group>"; };
 		96D290F920FFB18600C44AB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96D2915E2108E5F700C44AB3 /* 50585f96608bcc4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 50585f96608bcc4.jpg; sourceTree = "<group>"; };
+		96D291642108F14B00C44AB3 /* FVWdiR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = FVWdiR.jpg; sourceTree = "<group>"; };
+		96D2916A210937AE00C44AB3 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		DFA8A9860D3E0238469E636B /* Pods-test1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test1.debug.xcconfig"; path = "Pods/Target Support Files/Pods-test1/Pods-test1.debug.xcconfig"; sourceTree = "<group>"; };
+		F0B1BC32D3024A69AED4AF2F /* Pods-test1UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-test1UITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-test1UITests/Pods-test1UITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +100,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFB0C9BD579DCCADAD301463 /* Pods_test1.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +108,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F932A841C0A45B6DFB936E6E /* Pods_test1Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +116,26 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BA96C29FDE6B81415A29F4A /* Pods_test1UITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		142403676B791188F690A939 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DFA8A9860D3E0238469E636B /* Pods-test1.debug.xcconfig */,
+				6EC34143F02085677E978AF9 /* Pods-test1.release.xcconfig */,
+				8A9FE37ECF44A4847365C777 /* Pods-test1Tests.debug.xcconfig */,
+				3B9F63EB7466B210D79F587B /* Pods-test1Tests.release.xcconfig */,
+				14F43B3FF9E4FC322A36F946 /* Pods-test1UITests.debug.xcconfig */,
+				F0B1BC32D3024A69AED4AF2F /* Pods-test1UITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		96D290CB20FFB18200C44AB3 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +143,8 @@
 				96D290EB20FFB18600C44AB3 /* test1Tests */,
 				96D290F620FFB18600C44AB3 /* test1UITests */,
 				96D290D520FFB18200C44AB3 /* Products */,
+				142403676B791188F690A939 /* Pods */,
+				C5586D34D87F6F4362D63E62 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,10 +163,27 @@
 			children = (
 				96D290D720FFB18200C44AB3 /* AppDelegate.swift */,
 				96D290D920FFB18200C44AB3 /* ViewController.swift */,
+				960A5982210F8DDF0047982A /* HomeViewController.swift */,
+				960A5980210F8DC30047982A /* SignUpViewController.swift */,
+				960A59BA2114B6060047982A /* chipotle.swift */,
+				960A59C42114CF040047982A /* SubwayViewController.swift */,
+				960A59C62114CF160047982A /* PieologyViewController.swift */,
+				960A59C82114CF200047982A /* TacoBellViewController.swift */,
+				960A59CA2114CF330047982A /* InNOutViewController.swift */,
 				96D290DB20FFB18300C44AB3 /* Main.storyboard */,
 				96D290DE20FFB18600C44AB3 /* Assets.xcassets */,
+				96D2915E2108E5F700C44AB3 /* 50585f96608bcc4.jpg */,
+				960A59AC211388550047982A /* 2000px-Subway_restaurant.svg.png */,
+				96D291642108F14B00C44AB3 /* FVWdiR.jpg */,
+				960A598C21126D710047982A /* InNOut.svg.png */,
+				960A598A21126D470047982A /* Emblem-Chipotle.jpg */,
+				960A598621124C6D0047982A /* fast-food-apps-670x335.jpg */,
+				960A59B62113B2DF0047982A /* 31403942-tacobell-jpg.jpg */,
+				960A59B82113B4100047982A /* 6ba7b862ce36d8d131e56e0645fa77cb.jpg */,
+				960A5998211379700047982A /* 87388367_X8MkGhK2DUl307ACKVnqVmh-ViuTYHDEuhonETloDRI.png */,
 				96D290E020FFB18600C44AB3 /* LaunchScreen.storyboard */,
 				96D290E320FFB18600C44AB3 /* Info.plist */,
+				96D2916A210937AE00C44AB3 /* GoogleService-Info.plist */,
 			);
 			path = test1;
 			sourceTree = "<group>";
@@ -125,6 +206,16 @@
 			path = test1UITests;
 			sourceTree = "<group>";
 		};
+		C5586D34D87F6F4362D63E62 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				396C91CF99C24935DC115724 /* Pods_test1.framework */,
+				71A89F417F5FCA9D31725601 /* Pods_test1Tests.framework */,
+				0F3D33A83A7E85C26367CFA5 /* Pods_test1UITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +223,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 96D290FC20FFB18600C44AB3 /* Build configuration list for PBXNativeTarget "test1" */;
 			buildPhases = (
+				D1F41ED0529D311750B59C66 /* [CP] Check Pods Manifest.lock */,
 				96D290D020FFB18200C44AB3 /* Sources */,
 				96D290D120FFB18200C44AB3 /* Frameworks */,
 				96D290D220FFB18200C44AB3 /* Resources */,
+				9808B4C5DBE385E5B5BE633E /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -149,6 +242,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 96D290FF20FFB18600C44AB3 /* Build configuration list for PBXNativeTarget "test1Tests" */;
 			buildPhases = (
+				C9FA237CAC6158CB5DB39159 /* [CP] Check Pods Manifest.lock */,
 				96D290E420FFB18600C44AB3 /* Sources */,
 				96D290E520FFB18600C44AB3 /* Frameworks */,
 				96D290E620FFB18600C44AB3 /* Resources */,
@@ -167,6 +261,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 96D2910220FFB18600C44AB3 /* Build configuration list for PBXNativeTarget "test1UITests" */;
 			buildPhases = (
+				BDC9E8C0B022832F27A53C89 /* [CP] Check Pods Manifest.lock */,
 				96D290EF20FFB18600C44AB3 /* Sources */,
 				96D290F020FFB18600C44AB3 /* Frameworks */,
 				96D290F120FFB18600C44AB3 /* Resources */,
@@ -229,9 +324,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				960A5999211379700047982A /* 87388367_X8MkGhK2DUl307ACKVnqVmh-ViuTYHDEuhonETloDRI.png in Resources */,
+				960A59AD211388550047982A /* 2000px-Subway_restaurant.svg.png in Resources */,
+				960A59B92113B4110047982A /* 6ba7b862ce36d8d131e56e0645fa77cb.jpg in Resources */,
+				960A598721124C6E0047982A /* fast-food-apps-670x335.jpg in Resources */,
+				960A598B21126D470047982A /* Emblem-Chipotle.jpg in Resources */,
+				96D2915F2108E5F700C44AB3 /* 50585f96608bcc4.jpg in Resources */,
 				96D290E220FFB18600C44AB3 /* LaunchScreen.storyboard in Resources */,
 				96D290DF20FFB18600C44AB3 /* Assets.xcassets in Resources */,
+				96D291652108F14B00C44AB3 /* FVWdiR.jpg in Resources */,
 				96D290DD20FFB18300C44AB3 /* Main.storyboard in Resources */,
+				96D2916B210937AE00C44AB3 /* GoogleService-Info.plist in Resources */,
+				960A598D21126D710047982A /* InNOut.svg.png in Resources */,
+				960A59B72113B2DF0047982A /* 31403942-tacobell-jpg.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -251,13 +356,99 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		9808B4C5DBE385E5B5BE633E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-test1/Pods-test1-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-test1/Pods-test1-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BDC9E8C0B022832F27A53C89 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-test1UITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C9FA237CAC6158CB5DB39159 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-test1Tests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D1F41ED0529D311750B59C66 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-test1-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		96D290D020FFB18200C44AB3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				960A59CB2114CF330047982A /* InNOutViewController.swift in Sources */,
+				960A59BB2114B6060047982A /* chipotle.swift in Sources */,
+				960A59C52114CF040047982A /* SubwayViewController.swift in Sources */,
+				960A5981210F8DC30047982A /* SignUpViewController.swift in Sources */,
+				960A59C72114CF160047982A /* PieologyViewController.swift in Sources */,
+				960A59C92114CF200047982A /* TacoBellViewController.swift in Sources */,
 				96D290DA20FFB18200C44AB3 /* ViewController.swift in Sources */,
 				96D290D820FFB18200C44AB3 /* AppDelegate.swift in Sources */,
+				960A5983210F8DDF0047982A /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -428,10 +619,11 @@
 		};
 		96D290FD20FFB18600C44AB3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DFA8A9860D3E0238469E636B /* Pods-test1.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = G35JKDH4V6;
+				DEVELOPMENT_TEAM = CL273Q56A2;
 				INFOPLIST_FILE = test1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -446,10 +638,11 @@
 		};
 		96D290FE20FFB18600C44AB3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6EC34143F02085677E978AF9 /* Pods-test1.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = G35JKDH4V6;
+				DEVELOPMENT_TEAM = CL273Q56A2;
 				INFOPLIST_FILE = test1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -464,6 +657,7 @@
 		};
 		96D2910020FFB18600C44AB3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8A9FE37ECF44A4847365C777 /* Pods-test1Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -485,6 +679,7 @@
 		};
 		96D2910120FFB18600C44AB3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3B9F63EB7466B210D79F587B /* Pods-test1Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -506,6 +701,7 @@
 		};
 		96D2910320FFB18600C44AB3 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 14F43B3FF9E4FC322A36F946 /* Pods-test1UITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -526,6 +722,7 @@
 		};
 		96D2910420FFB18600C44AB3 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F0B1BC32D3024A69AED4AF2F /* Pods-test1UITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
